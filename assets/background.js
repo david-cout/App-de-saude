@@ -1,0 +1,2 @@
+// This file exports the background image URL for reuse across the app
+export const backgroundImage = 'https://images.pexels.com/photos/3376790/pexels-photo-3376790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2';
